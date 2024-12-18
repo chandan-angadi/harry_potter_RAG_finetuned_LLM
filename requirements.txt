@@ -1,0 +1,10 @@
+langchain
+langchain-community
+pypdf
+faiss-cpu
+requests 
+beautifulsoup4
+transformers
+peft
+torch
+datasets
