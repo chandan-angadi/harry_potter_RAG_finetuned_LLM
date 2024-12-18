@@ -1,7 +1,9 @@
 # README: Fine-Tuning Retrieval-Augmented Generation (RAG) Model
 
+![Harry Potter](https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg)
+
 ## Overview
-This repository contains an IPython notebook named `rag_w_fine_tuned_modely.ipynb`, which demonstrates the process of fine-tuning a Retrieval-Augmented Generation (RAG) model. RAG is a powerful architecture that combines retrieval-based techniques with generative capabilities, allowing for dynamic responses that are grounded in an external knowledge base.
+This repository contains an IPython notebook named `rag_w_fine_tuned_model.ipynb`, which demonstrates the process of fine-tuning a Retrieval-Augmented Generation (RAG) model. RAG is a powerful architecture that combines retrieval-based techniques with generative capabilities, allowing for dynamic responses that are grounded in an external knowledge base.
 
 ## Objectives
 The primary goals of this notebook are:
@@ -76,9 +78,6 @@ Ensure the following libraries are installed in your environment:
 - Modify the dataset path and model configurations as per your specific requirements.
 - Ensure your dataset adheres to the required format for fine-tuning.
 - The fine-tuning process can be computationally expensive; monitor resource usage during execution.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 - Hugging Face for their Transformers library and comprehensive documentation.
